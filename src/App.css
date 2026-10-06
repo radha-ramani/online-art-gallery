@@ -439,16 +439,16 @@ body {
 
   .gallery-section .artwork-grid {
     grid-template-columns: repeat(2, 1fr);
+  }
 
   .artists-page {
-  padding: 50px 30px;
-}
-
-.artists-grid {
-  grid-template-columns: repeat(2, 1fr);
-}
-
+    padding: 50px 30px;
   }
+
+  .artists-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
 }
 
 
@@ -621,4 +621,3 @@ body {
 .artist-info button:hover {
   background: #843f21;
 }
-
